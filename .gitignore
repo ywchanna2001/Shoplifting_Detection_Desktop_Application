@@ -5,3 +5,4 @@ build/
 dist/
 .pytest_cache/
 models/*.onnx
+data/
